@@ -1,4 +1,4 @@
-# Hey there :wave:
+# :wave: Hi, I'am Alif Januantara Prima
 
 <p align="center">
     <img src="https://i.gifer.com/fetch/w300-preview/86/865a8c96389a6feed2213a9dc5af4291.gif" height="240" width="400"/>
@@ -15,10 +15,15 @@ hello!, my name is **Januantara**, i live in indonesia at Bandung, a beautiful c
 
 ##
 
-![gitStat](https://github-readme-stats.vercel.app/api?username=coderzhaxor&show_icons=true&theme=bear)
+<p><img src="https://github-readme-stats.vercel.app/api?username=coderzhaxor&show_icons=true&theme=nightowl&locale=en" alt="januantara" /></p>
 
-## programming skills
+
+## Programming skills
 
 ![python](https://img.shields.io/badge/Python-16a085?style=for-the-badge&logo=Python&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![cplusplus](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### Support me on:
+
+- 👉 [Trakteer](https://trakteer.id/c0derzhax0r/tip?utm_source=github)
