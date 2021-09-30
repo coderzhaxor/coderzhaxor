@@ -1,10 +1,12 @@
 # :wave: Hi, I'am Januantara
 
-You can call me `prima`, very interesting to `javascript` language
-
 <p align="center">
     <img src="https://i.gifer.com/fetch/w300-preview/86/865a8c96389a6feed2213a9dc5af4291.gif" height="240" width="400"/>
 </p>
+
+
+You can call me `Prima`, curently studying in `Bandung` at Unibi
+
 
 ## talk to me
 
