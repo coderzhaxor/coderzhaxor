@@ -1,4 +1,4 @@
-# :wave: Hi, I'am Alif Januantara Prima
+# :wave: Hi, I'am Januantara
 
 <p align="center">
     <img src="https://i.gifer.com/fetch/w300-preview/86/865a8c96389a6feed2213a9dc5af4291.gif" height="240" width="400"/>
