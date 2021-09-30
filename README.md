@@ -1,12 +1,10 @@
 # :wave: Hi, I'am Januantara
 
+You can call me `prima`, very interesting to `javascript` language
+
 <p align="center">
     <img src="https://i.gifer.com/fetch/w300-preview/86/865a8c96389a6feed2213a9dc5af4291.gif" height="240" width="400"/>
 </p>
-
-## :boy: about me
-
-hello!, my name is **Januantara**, i live in indonesia at Bandung, a beautiful city with many awesome people. i like programming and cyber security because we can make something imagination and bring it to real world, and now i still coding for my hobby.
 
 ## talk to me
 
@@ -15,7 +13,7 @@ hello!, my name is **Januantara**, i live in indonesia at Bandung, a beautiful c
 
 ##
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=coderzhaxor&show_icons=true&theme=nightowl&locale=en" alt="januantara" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderzhaxor&" alt="januantara" /></p>
 
 
 ## Programming skills
