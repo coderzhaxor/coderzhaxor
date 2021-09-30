@@ -8,14 +8,14 @@
 You can call me `Prima`, curently studying in `Bandung` at Unibi
 
 
-## talk to me
+## Talk to me
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/c0derz_hax0r)
 [![facebook](https://img.shields.io/badge/Facebook-00599C?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/s3ct0r.cr3w)
 
 ##
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderzhaxor&" alt="januantara" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderzhaxor&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="januantara" /></p>
 
 
 ## Programming skills
