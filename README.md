@@ -13,7 +13,7 @@ You can call me `Prima`, curently studying in `Bandung` at Unibi
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/c0derz_hax0r)
 [![facebook](https://img.shields.io/badge/Facebook-00599C?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/s3ct0r.cr3w)
 
-##
+
 
 
 ## Programming skills
