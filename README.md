@@ -24,4 +24,4 @@ You can call me `Prima`, curently studying in `Bandung` at Unibi
 
 ### Support me on:
 
-- 👉 [Trakteer](https://trakteer.id/c0derzhax0r/tip?utm_source=github)
+[![Trakteer](https://img.shields.io/badge/Trakteer-red?style=for-the-badge)](https://trakteer.id/c0derzhax0r/tip?utm_source=github)
